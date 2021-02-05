@@ -1,0 +1,21 @@
+@media only screen and (max-width:768px){
+.box{
+  float:none;
+  width:80%;
+}
+.box p{
+  font-size:16px
+}
+}
+@media only screen and (max-width:284px){
+.box h1,h2{
+ font-size: 18px;
+
+}
+.box hr{
+  width:85px;
+}
+.box p{
+  font-size:12px
+}
+}
